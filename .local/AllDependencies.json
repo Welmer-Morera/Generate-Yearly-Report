@@ -8294,15 +8294,15 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\Welmer\\.nuget\\packages\\": {}
+    "C:\\Users\\welmer\\.nuget\\packages\\": {}
   },
   "project": {
     "restore": {
       "projectUniqueName": "Generate Yearly Report",
       "projectName": "Generate Yearly Report",
-      "projectPath": "C:\\Users\\Welmer\\Documents\\UiPath\\Generate Yearly Report\\.local",
-      "packagesPath": "C:\\Users\\Welmer\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Welmer\\Documents\\UiPath\\Generate Yearly Report\\.local"
+      "projectPath": "C:\\Users\\welmer\\Documents\\UiPath\\Generate-Yearly-Report\\.local",
+      "packagesPath": "C:\\Users\\welmer\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\welmer\\Documents\\UiPath\\Generate-Yearly-Report\\.local"
     },
     "frameworks": {
       "net461": {
@@ -8338,7 +8338,7 @@
             "version": "[21.10.4, 21.10.4]"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Users\\Welmer\\AppData\\Local\\Programs\\UiPath\\Studio\\runtime.json"
+        "runtimeIdentifierGraphPath": "C:\\Users\\welmer\\AppData\\Local\\Programs\\UiPath\\Studio\\runtime.json"
       }
     },
     "runtimes": {
